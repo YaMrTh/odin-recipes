@@ -1,0 +1,36 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.pic {
+    width: 50px;
+    height: auto;
+}
+
+
+li {
+    text-align: center;
+}
+
+#one {
+    background-color: blue;
+    font-weight: 900;
+    color: white;
+
+}
+
+#two {
+    background-color: white;
+    font-weight: 900;
+    color: white;
+}
+
+#three {
+    background-color: red;
+    font-weight: 900;
+    color: white;
+}
+
+a {
+    color: black;
+}
