@@ -1,0 +1,55 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: blanchedalmond;
+}
+
+div {
+    background-color: rgb(243, 162, 162);
+    width: 500px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    padding-left: 14px;
+}
+
+.pic {
+    width: 250px;
+    height: 250px;
+    padding: 0 auto;
+}
+
+h2 {
+    padding-left: 16px;
+}
+
+ul {
+    width: 150px;
+    margin: 0 auto;
+    color: white;
+    font-weight: bold;
+}
+
+li {
+    color: transparent;
+}
+
+#one {
+    background-color: blue;
+}
+
+#two {
+    background-color: white;
+}
+
+#three {
+    background-color: red;
+}
+
+li a {
+    color: white;
+}

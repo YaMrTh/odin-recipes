@@ -1,22 +1,32 @@
 body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: blanchedalmond;
+    padding: 0 auto;
+}
+
+div {
+    margin: 0 auto;
 }
 
 .pic {
+    align-items: center;
     width: 50px;
     height: auto;
 }
 
+ul{
+    width: 400px;
+}
 
 li {
     text-align: center;
+    color: transparent;
 }
 
 #one {
     background-color: blue;
     font-weight: 900;
     color: white;
-
 }
 
 #two {
